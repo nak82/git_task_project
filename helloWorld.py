@@ -1,1 +1,2 @@
-print("Git is awesome!") 
+user_input = input("Введите текст: ") 
+print("Вы ввели:", user_input) 
